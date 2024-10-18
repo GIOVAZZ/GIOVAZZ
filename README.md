@@ -37,6 +37,3 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/giovazz/giovazz/output/snake.svg" alt="Snake animation" />
-
-###
